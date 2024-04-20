@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Submenu/static/css/main.81fb8138.css",
+    "main.js": "/React-Submenu/static/js/main.bead4284.js",
+    "static/media/phone.svg": "/React-Submenu/static/media/phone.ae907e63595a71e5b0f6944e2b4a5bc2.svg",
+    "static/media/logo.svg": "/React-Submenu/static/media/logo.4658afbd4f1dae58190cd8b66107d42f.svg",
+    "static/media/hero.svg": "/React-Submenu/static/media/hero.1382a5016cab449baadc.svg",
+    "index.html": "/React-Submenu/index.html",
+    "main.81fb8138.css.map": "/React-Submenu/static/css/main.81fb8138.css.map",
+    "main.bead4284.js.map": "/React-Submenu/static/js/main.bead4284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81fb8138.css",
+    "static/js/main.bead4284.js"
+  ]
+}
